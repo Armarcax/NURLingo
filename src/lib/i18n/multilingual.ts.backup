@@ -1,0 +1,55 @@
+/**
+ * NUR Lingo — Multilingual Content v2 (cleaned)
+ */
+import { generateCurriculumForPair } from '../content/generator';
+
+export type LangCode = "en" | "hy" | "ru";
+export type LangPair = "en-hy" | "hy-en" | "ru-hy" | "hy-ru" | "en-ru" | "ru-en";
+
+export interface MultiExercise {
+  id: string;
+  type: "multiple_choice" | "translate" | "word_order" | "match_pairs" | "listening";
+  prompt: Record<LangCode, string>;
+  targetAnswer: string;
+  acceptableAnswers?: string[];
+  options?: string[];
+  words?: string[];
+  pairs?: Array<[string, string]>;
+  ttsText?: string;
+  ttsLang?: LangCode;
+  hint?: Record<LangCode, string>;
+  hayqReward?: number;
+}
+
+export interface MultiLesson {
+  id: string;
+  unitId: string;
+  cefr?: string;
+  difficulty?: number;
+  title: Record<LangCode, string>;
+  description: Record<LangCode, string>;
+  estimatedMinutes: number;
+  hayqTotal: number;
+  exercises: MultiExercise[];
+}
+
+export interface MultiUnit {
+  id: string;
+  title: Record<LangCode, string>;
+  description: Record<LangCode, string>;
+  iconEmoji: string;
+  colorFrom: string;
+  colorTo: string;
+  lessons: string[];
+}
+
+export function getLessonsForPair(pair: LangPair): { units: MultiUnit[]; lessons: MultiLesson[] } {
+  // Only generated content from content/database.ts + generator.ts
+  const generated = generateCurriculumForPair(pair);
+  return { units: generated.units, lessons: generated.lessons };
+}
+
+export function getLessonById(pair: LangPair, lessonId: string): MultiLesson | null {
+  const { lessons } = getLessonsForPair(pair);
+  return lessons.find(l => l.id === lessonId) || null;
+}

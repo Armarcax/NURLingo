@@ -1,0 +1,200 @@
+================================================================================
+📁 ՄՎՊ ԿԱՌՈՒՑՎԱԾՔԻ ՔԱՐՏԵԶ
+🗂️  Պրոեկտ: C:\Users\Armen\Documents\NurLingo\NUR_Lingo
+📅 Սկանավորված: 2026-06-17 02:18:22
+================================================================================
+
+📂 NUR_Lingo/ (ROOT)
+    📄 add-dialogue-lessons.js [.js] (5.7 KB)
+    📄 fix-dictionary.js [.js] (496 B)
+    📄 next-env.d.ts [.ts] (228 B)
+    📄 next.config.js [.js] (557 B)
+    📄 package-lock.json [.json] (322.4 KB)
+    📄 package.json [.json] (1.0 KB)
+    📄 postcss.config.js [.js] (86 B)
+    📄 tailwind.config.js [.js] (982 B)
+    📄 tsconfig.json [.json] (623 B)
+    📂 data/
+        📂 dictionaries/
+            📄 First_Contact.md [.md] (19.3 KB)
+            📄 Headers_dictionary.json [.json] (53.9 KB)
+            📄 dictionary.json [.json] (119.6 KB)
+    📂 public/
+        📄 sw.js [.js] (662 B)
+        📂 images/
+            📄 pomegranate-bg.jpg [.jpg] (106.0 KB)
+            📂 nuri/
+                📄 nuri-encouraging.png [.png] (202.0 KB)
+                📄 nuri-happy.png [.png] (187.5 KB)
+                📄 nuri-sad.png [.png] (177.1 KB)
+    📂 scripts/
+        📄 consolidate-dictionaries.ts [.ts] (1.6 KB)
+        📄 seed-lexicon.ts [.ts] (4.1 KB)
+    📂 src/
+        📂 app/
+            📄 globals.css [.css] (4.0 KB)
+            📄 layout.tsx [.tsx] (1.9 KB)
+            📄 page.tsx [.tsx] (8.4 KB)
+            📂 api/
+                📂 check-answer/
+                    📄 route.ts [.ts] (2.2 KB)
+                📂 dialogue/
+                    📄 route.ts [.ts] (1.7 KB)
+                📂 lesson/
+                    📄 route.ts [.ts] (3.0 KB)
+                    📂 generate/
+                        📄 route.ts [.ts] (1.3 KB)
+                📂 lexicon/
+                    📄 route.ts [.ts] (5.0 KB)
+                📂 validate/
+                    📄 route.ts [.ts] (1.2 KB)
+            📂 dialogues/
+                📄 page.tsx [.tsx] (8.1 KB)
+            📂 garden/
+                📄 page.tsx [.tsx] (5.9 KB)
+            📂 learn/
+                📄 page.tsx [.tsx] (22.2 KB)
+            📂 level0/
+                📄 page.tsx [.tsx] (40.1 KB)
+            📂 onboarding/
+                📄 page.tsx [.tsx] (5.1 KB)
+            📂 vocab-audio/
+                📄 page.tsx [.tsx] (3.2 KB)
+            📂 world/
+                📄 page.tsx [.tsx] (22.9 KB)
+        📂 components/
+            📄 BottomNav.tsx [.tsx] (2.0 KB)
+            📄 InteractiveDialogue.tsx [.tsx] (5.9 KB)
+            📄 MultilingualLearningModule.tsx [.tsx] (14.4 KB)
+            📄 Nuri.tsx [.tsx] (5.7 KB)
+            📄 ServiceWorkerRegister.tsx [.tsx] (237 B)
+        📂 lib/
+            📄 notifications.ts [.ts] (1.8 KB)
+            📂 adaptive/
+                📄 mastery.ts [.ts] (1.6 KB)
+            📂 ai/
+                📄 evaluator.ts [.ts] (10.2 KB)
+            📂 ai-tutor/
+                📄 route.ts [.ts] (907 B)
+            📂 content/
+                📄 database.ts [.ts] (227.4 KB)
+                📄 fix-database.js [.js] (2.1 KB)
+                📄 generator.ts [.ts] (10.4 KB)
+            📂 gamification/
+                📄 achievements.ts [.ts] (2.5 KB)
+            📂 hayq/
+                📄 events.ts [.ts] (753 B)
+                📄 wallet.ts [.ts] (848 B)
+            📂 i18n/
+                📄 index.ts [.ts] (932 B)
+                📄 multilingual.ts [.ts] (69.5 KB)
+                📄 multilingual.ts.backup [.backup] (1.6 KB)
+            📂 lessons/
+                📄 engine.ts [.ts] (13.9 KB)
+                📄 session.ts [.ts] (689 B)
+            📂 lexicon/
+                📄 dictionary.ts [.ts] (47.4 KB)
+                📄 master-dictionary.fixed.json [.json] (33.2 KB)
+                📄 master-dictionary.json [.json] (33.2 KB)
+            📂 nlp/
+                📄 morphology.test.ts [.ts] (3.0 KB)
+                📄 morphology.ts [.ts] (14.9 KB)
+            📂 rewards/
+                📄 quests.ts [.ts] (3.4 KB)
+                📄 seeds.ts [.ts] (8.7 KB)
+            📂 semantic/
+                📄 validator.test.ts [.ts] (3.7 KB)
+                📄 validator.ts [.ts] (4.3 KB)
+            📂 supabase/
+                📄 client.ts [.ts] (1.8 KB)
+                📄 server.ts [.ts] (1.1 KB)
+            📂 translation/
+                📄 provider.ts [.ts] (697 B)
+    📂 supabase/
+        📂 migrations/
+            📄 002_add_currency.sql [.sql] (1.3 KB)
+            📄 003_add_leaderboard.sql [.sql] (1.4 KB)
+
+================================================================================
+📊 ՍՏԱՏԻՍՏԻԿԱ
+================================================================================
+📁 Պանակներ: 41
+📄 Ֆայլեր: 69
+📍 Ճանապարհ: C:\Users\Armen\Documents\NurLingo\NUR_Lingo
+
+================================================================================
+📋 ՖԱՅԼԵՐԻ ՑՈՒՑԱԿ (հարաբերական ճանապարհներ)
+================================================================================
+  • add-dialogue-lessons.js (5.7 KB)
+  • fix-dictionary.js (496 B)
+  • next-env.d.ts (228 B)
+  • next.config.js (557 B)
+  • package-lock.json (322.4 KB)
+  • package.json (1.0 KB)
+  • postcss.config.js (86 B)
+  • tailwind.config.js (982 B)
+  • tsconfig.json (623 B)
+  • data\dictionaries\First_Contact.md (19.3 KB)
+  • data\dictionaries\Headers_dictionary.json (53.9 KB)
+  • data\dictionaries\dictionary.json (119.6 KB)
+  • public\sw.js (662 B)
+  • public\images\pomegranate-bg.jpg (106.0 KB)
+  • public\images\nuri\nuri-encouraging.png (202.0 KB)
+  • public\images\nuri\nuri-happy.png (187.5 KB)
+  • public\images\nuri\nuri-sad.png (177.1 KB)
+  • scripts\consolidate-dictionaries.ts (1.6 KB)
+  • scripts\seed-lexicon.ts (4.1 KB)
+  • src\app\globals.css (4.0 KB)
+  • src\app\layout.tsx (1.9 KB)
+  • src\app\page.tsx (8.4 KB)
+  • src\app\api\check-answer\route.ts (2.2 KB)
+  • src\app\api\dialogue\route.ts (1.7 KB)
+  • src\app\api\lesson\route.ts (3.0 KB)
+  • src\app\api\lesson\generate\route.ts (1.3 KB)
+  • src\app\api\lexicon\route.ts (5.0 KB)
+  • src\app\api\validate\route.ts (1.2 KB)
+  • src\app\dialogues\page.tsx (8.1 KB)
+  • src\app\garden\page.tsx (5.9 KB)
+  • src\app\learn\page.tsx (22.2 KB)
+  • src\app\level0\page.tsx (40.1 KB)
+  • src\app\onboarding\page.tsx (5.1 KB)
+  • src\app\vocab-audio\page.tsx (3.2 KB)
+  • src\app\world\page.tsx (22.9 KB)
+  • src\components\BottomNav.tsx (2.0 KB)
+  • src\components\InteractiveDialogue.tsx (5.9 KB)
+  • src\components\MultilingualLearningModule.tsx (14.4 KB)
+  • src\components\Nuri.tsx (5.7 KB)
+  • src\components\ServiceWorkerRegister.tsx (237 B)
+  • src\lib\notifications.ts (1.8 KB)
+  • src\lib\adaptive\mastery.ts (1.6 KB)
+  • src\lib\ai\evaluator.ts (10.2 KB)
+  • src\lib\ai-tutor\route.ts (907 B)
+  • src\lib\content\database.ts (227.4 KB)
+  • src\lib\content\fix-database.js (2.1 KB)
+  • src\lib\content\generator.ts (10.4 KB)
+  • src\lib\gamification\achievements.ts (2.5 KB)
+  • src\lib\hayq\events.ts (753 B)
+  • src\lib\hayq\wallet.ts (848 B)
+  • src\lib\i18n\index.ts (932 B)
+  • src\lib\i18n\multilingual.ts (69.5 KB)
+  • src\lib\i18n\multilingual.ts.backup (1.6 KB)
+  • src\lib\lessons\engine.ts (13.9 KB)
+  • src\lib\lessons\session.ts (689 B)
+  • src\lib\lexicon\dictionary.ts (47.4 KB)
+  • src\lib\lexicon\master-dictionary.fixed.json (33.2 KB)
+  • src\lib\lexicon\master-dictionary.json (33.2 KB)
+  • src\lib\nlp\morphology.test.ts (3.0 KB)
+  • src\lib\nlp\morphology.ts (14.9 KB)
+  • src\lib\rewards\quests.ts (3.4 KB)
+  • src\lib\rewards\seeds.ts (8.7 KB)
+  • src\lib\semantic\validator.test.ts (3.7 KB)
+  • src\lib\semantic\validator.ts (4.3 KB)
+  • src\lib\supabase\client.ts (1.8 KB)
+  • src\lib\supabase\server.ts (1.1 KB)
+  • src\lib\translation\provider.ts (697 B)
+  • supabase\migrations\002_add_currency.sql (1.3 KB)
+  • supabase\migrations\003_add_leaderboard.sql (1.4 KB)
+
+================================================================================
+✅ Սկանավորում ավարտված
+================================================================================

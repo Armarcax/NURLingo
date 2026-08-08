@@ -1,0 +1,183 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --hy-red:     #D90012;
+    --hy-blue:    #0033A0;
+    --hy-orange:  #F2A800;
+    --hy-red-dim: rgba(217,0,18,0.15);
+    --hy-blue-dim:rgba(0,51,160,0.15);
+    --hy-org-dim: rgba(242,168,0,0.15);
+    --color-bg:   #0a0a0f;
+    --color-card: #11111a;
+    --color-border: rgba(255,255,255,0.08);
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html {
+    background: var(--color-bg);
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+  
+  body {
+    background: var(--color-bg);
+    color: white;
+    min-height: 100vh;
+    width: 100%;
+    overflow-x: hidden;
+  }
+  
+  /* Main container that centers all content */
+  .container-main {
+    width: 100%;
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  @media (min-width: 640px) {
+    .container-main {
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .container-main {
+      padding-left: 2rem;
+      padding-right: 2rem;
+    }
+  }
+  
+  *:lang(hy), .font-armenian { 
+    font-family: "Noto Serif Armenian", serif; 
+  }
+  
+  textarea, input { 
+    unicode-bidi: plaintext; 
+  }
+  
+  ::-webkit-scrollbar { 
+    width: 5px; 
+  }
+  
+  ::-webkit-scrollbar-thumb { 
+    background: rgba(255,255,255,0.1); 
+    border-radius: 3px; 
+  }
+}
+
+@layer components {
+  .flag-stripe {
+    background: linear-gradient(90deg, #D90012 0% 33.3%, #0033A0 33.3% 66.6%, #F2A800 66.6% 100%);
+  }
+  
+  .hayq-chip {
+    @apply inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-sm font-bold;
+    background: rgba(242,168,0,0.15);
+    color: #F2A800;
+    border: 1px solid rgba(242,168,0,0.3);
+  }
+  
+  .btn-primary {
+    @apply px-6 py-3 rounded-xl font-bold text-white transition-all active:scale-95;
+    background: linear-gradient(135deg, #D90012, #a00028);
+    box-shadow: 0 4px 20px rgba(217,0,18,0.3);
+  }
+  
+  .btn-primary:hover {
+    filter: brightness(1.1);
+  }
+  
+  .btn-orange {
+    @apply px-6 py-3 rounded-xl font-bold transition-all active:scale-95;
+    background: linear-gradient(135deg, #F2A800, #e09000);
+    color: #07080f;
+  }
+}
+
+@keyframes mascot-bounce {
+  0%,100% { transform: translateY(0px) rotate(-2deg); }
+  50% { transform: translateY(-10px) rotate(2deg); }
+}
+
+@keyframes sparkle {
+  0%,100% { opacity:0; transform: scale(0) rotate(0deg); }
+  50% { opacity:1; transform: scale(1) rotate(180deg); }
+}
+
+.mascot-bounce { 
+  animation: mascot-bounce 3s ease-in-out infinite; 
+}
+
+.sparkle-1 { 
+  animation: sparkle 2.5s ease-in-out infinite 0s; 
+}
+.sparkle-2 { 
+  animation: sparkle 2.5s ease-in-out infinite 0.8s; 
+}
+.sparkle-3 { 
+  animation: sparkle 2.5s ease-in-out infinite 1.6s; 
+}
+
+/* globals.css – ավելացնել ֆայլի վերջում */
+
+/* 3D flip card-ների համար */
+.perspective {
+  perspective: 1000px;
+}
+
+.transform-style-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+/* Լրացուցիչ ուղղումներ ուսուցողական մոդուլի համար */
+.btn-secondary {
+  @apply px-4 py-2 rounded-lg font-medium transition-all;
+  background: rgba(255,255,255,0.1);
+  color: white;
+  border: 1px solid rgba(255,255,255,0.2);
+}
+.btn-secondary:hover {
+  background: rgba(255,255,255,0.2);
+}
+
+.exercise-card {
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 1rem;
+  padding: 1.5rem;
+}
+
+.word-chip {
+  @apply inline-block px-3 py-2 m-1 bg-gray-800 rounded-lg cursor-pointer select-none;
+  transition: all 0.1s ease;
+}
+.word-chip:active {
+  transform: scale(0.97);
+}
+
+.match-pair-left {
+  @apply p-3 bg-gray-800 rounded-lg text-center;
+}
+.match-pair-right {
+  @apply p-3 bg-gray-700 rounded-lg text-center cursor-pointer hover:bg-gray-600 transition;
+}

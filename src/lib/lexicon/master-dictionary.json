@@ -1,0 +1,2142 @@
+{
+  "a": {
+    "en": "a",
+    "hy": "մի",
+    "ru": "a"
+  },
+  "about": {
+    "en": "about",
+    "hy": "մասին",
+    "ru": "о"
+  },
+  "above": {
+    "en": "above",
+    "hy": "վերևում",
+    "ru": "над"
+  },
+  "after": {
+    "en": "after",
+    "hy": "հետո",
+    "ru": "после"
+  },
+  "again": {
+    "en": "again",
+    "hy": "նորից",
+    "ru": "снова"
+  },
+  "against": {
+    "en": "against",
+    "hy": "դեմ",
+    "ru": "против"
+  },
+  "age": {
+    "en": "",
+    "hy": "tak",
+    "ru": "возраст"
+  },
+  "air": {
+    "en": "air",
+    "hy": "օդ",
+    "ru": "воздух"
+  },
+  "airport": {
+    "en": "",
+    "hy": "odyanаvakayan",
+    "ru": "аэропорт"
+  },
+  "all": {
+    "en": "all",
+    "hy": "բոլոր",
+    "ru": "все"
+  },
+  "alone": {
+    "en": "alone",
+    "hy": "մենակ",
+    "ru": "один"
+  },
+  "also": {
+    "en": "also",
+    "hy": "նաև",
+    "ru": "также"
+  },
+  "always": {
+    "en": "always",
+    "hy": "միշտ",
+    "ru": "всегда"
+  },
+  "an": {
+    "en": "an",
+    "hy": "մի",
+    "ru": "an"
+  },
+  "and": {
+    "en": "and",
+    "hy": "և",
+    "ru": "и"
+  },
+  "answer": {
+    "en": "",
+    "hy": "patasхan",
+    "ru": "ответ"
+  },
+  "any": {
+    "en": "any",
+    "hy": "ցանկացած",
+    "ru": "любой"
+  },
+  "apple": {
+    "en": "",
+    "hy": "khndzor",
+    "ru": "яблоко"
+  },
+  "april": {
+    "en": "",
+    "hy": "april",
+    "ru": "апрель"
+  },
+  "arm": {
+    "en": "",
+    "hy": "bazuk",
+    "ru": "рука"
+  },
+  "art": {
+    "en": "",
+    "hy": "arvest",
+    "ru": "искусство"
+  },
+  "artist": {
+    "en": "",
+    "hy": "nkardrich",
+    "ru": "художник"
+  },
+  "as": {
+    "en": "as",
+    "hy": "որպես",
+    "ru": "как"
+  },
+  "at": {
+    "en": "at",
+    "hy": "մոտ",
+    "ru": "в"
+  },
+  "august": {
+    "en": "",
+    "hy": "ogostos",
+    "ru": "август"
+  },
+  "autumn": {
+    "en": "",
+    "hy": "ashun",
+    "ru": "осень"
+  },
+  "baby": {
+    "en": "",
+    "hy": "manuk",
+    "ru": "младенец"
+  },
+  "back": {
+    "en": "back",
+    "hy": "հետև",
+    "ru": "зад"
+  },
+  "bad": {
+    "en": "bad",
+    "hy": "վատ",
+    "ru": "плохой"
+  },
+  "bag": {
+    "en": "",
+    "hy": "paylak",
+    "ru": "сумка"
+  },
+  "be": {
+    "en": "be",
+    "hy": "լինել",
+    "ru": "быть"
+  },
+  "bear": {
+    "en": "",
+    "hy": "arj",
+    "ru": "медведь"
+  },
+  "beautiful": {
+    "en": "beautiful",
+    "hy": "գեղեցիկ",
+    "ru": "красивый"
+  },
+  "because": {
+    "en": "because",
+    "hy": "որովհետև",
+    "ru": "потому что"
+  },
+  "before": {
+    "en": "before",
+    "hy": "առաջ",
+    "ru": "до"
+  },
+  "below": {
+    "en": "below",
+    "hy": "ներքևում",
+    "ru": "под"
+  },
+  "between": {
+    "en": "between",
+    "hy": "միջև",
+    "ru": "между"
+  },
+  "bicycle": {
+    "en": "",
+    "hy": "hеtrikord",
+    "ru": "велосипед"
+  },
+  "big": {
+    "en": "big",
+    "hy": "մեծ",
+    "ru": "большой"
+  },
+  "bird": {
+    "en": "",
+    "hy": "tsitеrnak",
+    "ru": "птица"
+  },
+  "black": {
+    "en": "black",
+    "hy": "սև",
+    "ru": "черный"
+  },
+  "blood": {
+    "en": "blood",
+    "hy": "արյուն",
+    "ru": "кровь"
+  },
+  "blue": {
+    "en": "blue",
+    "hy": "կապույտ",
+    "ru": "синий"
+  },
+  "bone": {
+    "en": "bone",
+    "hy": "ոսկոր",
+    "ru": "кость"
+  },
+  "book": {
+    "en": "book",
+    "hy": "գիրք",
+    "ru": "книга"
+  },
+  "bread": {
+    "en": "",
+    "hy": "hats",
+    "ru": "хлеб"
+  },
+  "bridge": {
+    "en": "",
+    "hy": "kamurj",
+    "ru": "мост"
+  },
+  "brother": {
+    "en": "brother",
+    "hy": "եղբայր",
+    "ru": "брат"
+  },
+  "brown": {
+    "en": "",
+    "hy": "շականakaguyun",
+    "ru": "коричневый"
+  },
+  "bus": {
+    "en": "",
+    "hy": "avtobus",
+    "ru": "автобус"
+  },
+  "but": {
+    "en": "but",
+    "hy": "բայց",
+    "ru": "но"
+  },
+  "butter": {
+    "en": "",
+    "hy": "karagh",
+    "ru": "масло"
+  },
+  "buy": {
+    "en": "",
+    "hy": "gnel",
+    "ru": "купить"
+  },
+  "by": {
+    "en": "by",
+    "hy": "-ով",
+    "ru": "-ом"
+  },
+  "camera": {
+    "en": "",
+    "hy": "lus'anakaritch",
+    "ru": "камера"
+  },
+  "can": {
+    "en": "can",
+    "hy": "կարող",
+    "ru": "мочь"
+  },
+  "car": {
+    "en": "",
+    "hy": "mashin",
+    "ru": "машина"
+  },
+  "cat": {
+    "en": "",
+    "hy": "katу",
+    "ru": "кот"
+  },
+  "cheese": {
+    "en": "",
+    "hy": "panir",
+    "ru": "сыр"
+  },
+  "chef": {
+    "en": "",
+    "hy": "ashkharagets",
+    "ru": "повар"
+  },
+  "child": {
+    "en": "child",
+    "hy": "երեխա",
+    "ru": "ребенок"
+  },
+  "church": {
+    "en": "",
+    "hy": "yegeghetsi",
+    "ru": "церковь"
+  },
+  "city": {
+    "en": "",
+    "hy": "kaghak",
+    "ru": "город"
+  },
+  "clean": {
+    "en": "clean",
+    "hy": "մաքուր",
+    "ru": "чистый"
+  },
+  "close": {
+    "en": "close",
+    "hy": "փակել",
+    "ru": "закрыть"
+  },
+  "cloud": {
+    "en": "",
+    "hy": "ampegh",
+    "ru": "облако"
+  },
+  "coat": {
+    "en": "",
+    "hy": "palt",
+    "ru": "пальто"
+  },
+  "coffee": {
+    "en": "",
+    "hy": "surj",
+    "ru": "кофе"
+  },
+  "cold": {
+    "en": "cold",
+    "hy": "սառը",
+    "ru": "холодный"
+  },
+  "come": {
+    "en": "come",
+    "hy": "գալ",
+    "ru": "приходить"
+  },
+  "computer": {
+    "en": "",
+    "hy": "hamakargich",
+    "ru": "компьютер"
+  },
+  "could": {
+    "en": "could",
+    "hy": "կարողանալ",
+    "ru": "мог"
+  },
+  "country": {
+    "en": "",
+    "hy": "yerkir",
+    "ru": "страна"
+  },
+  "cow": {
+    "en": "",
+    "hy": "kov",
+    "ru": "корова"
+  },
+  "cry": {
+    "en": "",
+    "hy": "lal",
+    "ru": "плакать"
+  },
+  "dance": {
+    "en": "",
+    "hy": "parel",
+    "ru": "танцевать"
+  },
+  "dark": {
+    "en": "dark",
+    "hy": "մութ",
+    "ru": "темный"
+  },
+  "daughter": {
+    "en": "",
+    "hy": "dugh",
+    "ru": "дочь"
+  },
+  "day": {
+    "en": "day",
+    "hy": "օր",
+    "ru": "день"
+  },
+  "death": {
+    "en": "",
+    "hy": "mah",
+    "ru": "смерть"
+  },
+  "december": {
+    "en": "",
+    "hy": "dektember",
+    "ru": "декабрь"
+  },
+  "die": {
+    "en": "",
+    "hy": "manal",
+    "ru": "умереть"
+  },
+  "difficult": {
+    "en": "",
+    "hy": "dzhvar",
+    "ru": "трудный"
+  },
+  "dirty": {
+    "en": "dirty",
+    "hy": "կեղտոտ",
+    "ru": "грязный"
+  },
+  "do": {
+    "en": "do",
+    "hy": "անել",
+    "ru": "делать"
+  },
+  "doctor": {
+    "en": "",
+    "hy": "bzhishk",
+    "ru": "врач"
+  },
+  "dog": {
+    "en": "",
+    "hy": "shun",
+    "ru": "собака"
+  },
+  "door": {
+    "en": "door",
+    "hy": "դուռ",
+    "ru": "дверь"
+  },
+  "down": {
+    "en": "down",
+    "hy": "ներքև",
+    "ru": "вниз"
+  },
+  "dream": {
+    "en": "",
+    "hy": "yeraz",
+    "ru": "мечта"
+  },
+  "dress": {
+    "en": "",
+    "hy": "zoraguyn",
+    "ru": "платье"
+  },
+  "drink": {
+    "en": "",
+    "hy": "khmel",
+    "ru": "пить"
+  },
+  "during": {
+    "en": "during",
+    "hy": "ընթացքում",
+    "ru": "во время"
+  },
+  "ear": {
+    "en": "ear",
+    "hy": "ականջ",
+    "ru": "ухо"
+  },
+  "early": {
+    "en": "early",
+    "hy": "վաղ",
+    "ru": "рано"
+  },
+  "earth": {
+    "en": "earth",
+    "hy": "երկիր",
+    "ru": "земля"
+  },
+  "easy": {
+    "en": "",
+    "hy": "халь",
+    "ru": "лёгкий"
+  },
+  "eat": {
+    "en": "",
+    "hy": "utel",
+    "ru": "есть"
+  },
+  "egg": {
+    "en": "",
+    "hy": "dzu",
+    "ru": "яйцо"
+  },
+  "eight": {
+    "en": "",
+    "hy": "ութ",
+    "ru": "восемь"
+  },
+  "elephant": {
+    "en": "",
+    "hy": "p'igh",
+    "ru": "слон"
+  },
+  "empty": {
+    "en": "empty",
+    "hy": "դատարկ",
+    "ru": "пустой"
+  },
+  "enemy": {
+    "en": "enemy",
+    "hy": "թշնամի",
+    "ru": "враг"
+  },
+  "engineer": {
+    "en": "",
+    "hy": "ynhandis",
+    "ru": "инженер"
+  },
+  "even": {
+    "en": "even",
+    "hy": "նույնիսկ",
+    "ru": "даже"
+  },
+  "evening": {
+    "en": "evening",
+    "hy": "երեկո",
+    "ru": "вечер"
+  },
+  "exam": {
+    "en": "",
+    "hy": "qann",
+    "ru": "экзамен"
+  },
+  "eye": {
+    "en": "eye",
+    "hy": "աչք",
+    "ru": "глаз"
+  },
+  "face": {
+    "en": "face",
+    "hy": "դեմք",
+    "ru": "лицо"
+  },
+  "family": {
+    "en": "",
+    "hy": "yndanik",
+    "ru": "семья"
+  },
+  "fast": {
+    "en": "fast",
+    "hy": "արագ",
+    "ru": "быстрый"
+  },
+  "father": {
+    "en": "father",
+    "hy": "հայր",
+    "ru": "отец"
+  },
+  "february": {
+    "en": "",
+    "hy": "p'etruvar",
+    "ru": "февраль"
+  },
+  "find": {
+    "en": "",
+    "hy": "gtel",
+    "ru": "найти"
+  },
+  "finger": {
+    "en": "",
+    "hy": "motel",
+    "ru": "палец"
+  },
+  "fire": {
+    "en": "fire",
+    "hy": "կրակ",
+    "ru": "огонь"
+  },
+  "first": {
+    "en": "first",
+    "hy": "առաջին",
+    "ru": "первый"
+  },
+  "fish": {
+    "en": "",
+    "hy": "dzuk",
+    "ru": "рыба"
+  },
+  "five": {
+    "en": "",
+    "hy": "հինգ",
+    "ru": "пять"
+  },
+  "flower": {
+    "en": "flower",
+    "hy": "ծաղիկ",
+    "ru": "цветок"
+  },
+  "fog": {
+    "en": "",
+    "hy": "muk",
+    "ru": "туман"
+  },
+  "food": {
+    "en": "food",
+    "hy": "ուտելիք",
+    "ru": "еда"
+  },
+  "foot": {
+    "en": "foot",
+    "hy": "ոտք",
+    "ru": "нога"
+  },
+  "for": {
+    "en": "for",
+    "hy": "համար",
+    "ru": "для"
+  },
+  "forest": {
+    "en": "",
+    "hy": "antar",
+    "ru": "лес"
+  },
+  "four": {
+    "en": "",
+    "hy": "չորս",
+    "ru": "четыре"
+  },
+  "free": {
+    "en": "",
+    "hy": "anvar",
+    "ru": "бесплатный"
+  },
+  "friday": {
+    "en": "",
+    "hy": "urbat",
+    "ru": "пятница"
+  },
+  "friend": {
+    "en": "friend",
+    "hy": "ընկեր",
+    "ru": "друг"
+  },
+  "from": {
+    "en": "from",
+    "hy": "-ից",
+    "ru": "из"
+  },
+  "front": {
+    "en": "front",
+    "hy": "առջև",
+    "ru": "перед"
+  },
+  "full": {
+    "en": "full",
+    "hy": "լի",
+    "ru": "полный"
+  },
+  "game": {
+    "en": "",
+    "hy": "khagha",
+    "ru": "игра"
+  },
+  "geography": {
+    "en": "",
+    "hy": "ashkharagitutyun",
+    "ru": "география"
+  },
+  "get": {
+    "en": "get",
+    "hy": "ստանալ",
+    "ru": "получить"
+  },
+  "give": {
+    "en": "give",
+    "hy": "տալ",
+    "ru": "давать"
+  },
+  "glasses": {
+    "en": "",
+    "hy": "akankner",
+    "ru": "очки"
+  },
+  "go": {
+    "en": "go",
+    "hy": "գնալ",
+    "ru": "идти"
+  },
+  "good": {
+    "en": "good",
+    "hy": "լավ",
+    "ru": "хороший"
+  },
+  "goodbye": {
+    "en": "",
+    "hy": "tsutsаparutyan",
+    "ru": "до свидания"
+  },
+  "grandfather": {
+    "en": "",
+    "hy": "papik",
+    "ru": "дедушка"
+  },
+  "grandmother": {
+    "en": "",
+    "hy": "tatik",
+    "ru": "бабушка"
+  },
+  "grass": {
+    "en": "",
+    "hy": "khot",
+    "ru": "трава"
+  },
+  "gray": {
+    "en": "",
+    "hy": "մոխրaguyun",
+    "ru": "серый"
+  },
+  "green": {
+    "en": "green",
+    "hy": "կանաչ",
+    "ru": "зеленый"
+  },
+  "hair": {
+    "en": "hair",
+    "hy": "մազ",
+    "ru": "волосы"
+  },
+  "hand": {
+    "en": "hand",
+    "hy": "ձեռք",
+    "ru": "рука"
+  },
+  "happy": {
+    "en": "happy",
+    "hy": "ուրախ",
+    "ru": "счастливый"
+  },
+  "hat": {
+    "en": "",
+    "hy": "gorgegh",
+    "ru": "шапка"
+  },
+  "hate": {
+    "en": "hate",
+    "hy": "ատել",
+    "ru": "ненавидеть"
+  },
+  "have": {
+    "en": "have",
+    "hy": "ունենալ",
+    "ru": "иметь"
+  },
+  "he": {
+    "en": "he",
+    "hy": "նա (արական)",
+    "ru": "он"
+  },
+  "head": {
+    "en": "head",
+    "hy": "գլուխ",
+    "ru": "голова"
+  },
+  "health": {
+    "en": "",
+    "hy": "aроghjanutyan",
+    "ru": "здоровье"
+  },
+  "heart": {
+    "en": "heart",
+    "hy": "սիրտ",
+    "ru": "сердце"
+  },
+  "hello": {
+    "en": "",
+    "hy": "բարև",
+    "ru": "привет"
+  },
+  "help": {
+    "en": "",
+    "hy": "ognel",
+    "ru": "помочь"
+  },
+  "help_n": {
+    "en": "",
+    "hy": "ognutyun",
+    "ru": "помощь"
+  },
+  "her": {
+    "en": "her",
+    "hy": "նրա (իգական)",
+    "ru": "ее"
+  },
+  "here": {
+    "en": "here",
+    "hy": "այստեղ",
+    "ru": "здесь"
+  },
+  "him": {
+    "en": "him",
+    "hy": "նրան (արական)",
+    "ru": "его"
+  },
+  "his": {
+    "en": "his",
+    "hy": "նրա (արական)",
+    "ru": "его"
+  },
+  "history": {
+    "en": "",
+    "hy": "patmutyun",
+    "ru": "история"
+  },
+  "homework": {
+    "en": "",
+    "hy": "tanatun ashkhatanq",
+    "ru": "домашнее задание"
+  },
+  "horse": {
+    "en": "",
+    "hy": "dzі",
+    "ru": "лошадь"
+  },
+  "hospital": {
+    "en": "",
+    "hy": "hivandanots",
+    "ru": "больница"
+  },
+  "hot": {
+    "en": "hot",
+    "hy": "տաք",
+    "ru": "горячий"
+  },
+  "hour": {
+    "en": "",
+    "hy": "zhаm",
+    "ru": "час"
+  },
+  "house": {
+    "en": "house",
+    "hy": "տուն",
+    "ru": "дом"
+  },
+  "how": {
+    "en": "how",
+    "hy": "ինչպես",
+    "ru": "как"
+  },
+  "hundred": {
+    "en": "",
+    "hy": "հարյուր",
+    "ru": "сто"
+  },
+  "husband": {
+    "en": "",
+    "hy": "amusnu",
+    "ru": "муж"
+  },
+  "i": {
+    "en": "I",
+    "hy": "ես",
+    "ru": "я"
+  },
+  "ice": {
+    "en": "",
+    "hy": "kegh",
+    "ru": "лёд"
+  },
+  "idea": {
+    "en": "",
+    "hy": "gaghapar",
+    "ru": "идея"
+  },
+  "if": {
+    "en": "if",
+    "hy": "եթե",
+    "ru": "если"
+  },
+  "in": {
+    "en": "in",
+    "hy": "ներս",
+    "ru": "в"
+  },
+  "inside": {
+    "en": "inside",
+    "hy": "ներսում",
+    "ru": "внутри"
+  },
+  "internet": {
+    "en": "",
+    "hy": "lratu",
+    "ru": "интернет"
+  },
+  "into": {
+    "en": "into",
+    "hy": "ներս",
+    "ru": "в"
+  },
+  "it": {
+    "en": "it",
+    "hy": "այն",
+    "ru": "это"
+  },
+  "its": {
+    "en": "its",
+    "hy": "իր",
+    "ru": "его"
+  },
+  "january": {
+    "en": "",
+    "hy": "hunvar",
+    "ru": "январь"
+  },
+  "juice": {
+    "en": "",
+    "hy": "hyut",
+    "ru": "сок"
+  },
+  "july": {
+    "en": "",
+    "hy": "hulis",
+    "ru": "июль"
+  },
+  "june": {
+    "en": "",
+    "hy": "hunisi",
+    "ru": "июнь"
+  },
+  "just": {
+    "en": "just",
+    "hy": "հենց",
+    "ru": "только"
+  },
+  "know": {
+    "en": "know",
+    "hy": "իմանալ",
+    "ru": "знать"
+  },
+  "language": {
+    "en": "",
+    "hy": "lezу",
+    "ru": "язык"
+  },
+  "late": {
+    "en": "late",
+    "hy": "ուշ",
+    "ru": "поздно"
+  },
+  "later": {
+    "en": "later",
+    "hy": "հետո",
+    "ru": "позже"
+  },
+  "laugh": {
+    "en": "",
+    "hy": "tsaghel",
+    "ru": "смеяться"
+  },
+  "lawyer": {
+    "en": "",
+    "hy": "iravaban",
+    "ru": "адвокат"
+  },
+  "learn": {
+    "en": "",
+    "hy": "sovorel",
+    "ru": "учиться"
+  },
+  "left": {
+    "en": "left",
+    "hy": "ձախ",
+    "ru": "левый"
+  },
+  "leg": {
+    "en": "",
+    "hy": "vorig",
+    "ru": "нога"
+  },
+  "lesson": {
+    "en": "",
+    "hy": "dас",
+    "ru": "урок"
+  },
+  "library": {
+    "en": "",
+    "hy": "matenadaran",
+    "ru": "библиотека"
+  },
+  "life": {
+    "en": "",
+    "hy": "kyanq",
+    "ru": "жизнь"
+  },
+  "light": {
+    "en": "light",
+    "hy": "լույս",
+    "ru": "свет"
+  },
+  "like": {
+    "en": "like",
+    "hy": "նման",
+    "ru": "нравиться"
+  },
+  "lion": {
+    "en": "",
+    "hy": "aruutj",
+    "ru": "лев"
+  },
+  "listen": {
+    "en": "",
+    "hy": "lusnel",
+    "ru": "слушать"
+  },
+  "live": {
+    "en": "",
+    "hy": "aprel",
+    "ru": "жить"
+  },
+  "long": {
+    "en": "",
+    "hy": "yerkar",
+    "ru": "длинный"
+  },
+  "look": {
+    "en": "look",
+    "hy": "նայել",
+    "ru": "смотреть"
+  },
+  "lose": {
+    "en": "",
+    "hy": "gerel",
+    "ru": "потерять"
+  },
+  "love": {
+    "en": "love",
+    "hy": "սեր",
+    "ru": "любовь"
+  },
+  "love_v": {
+    "en": "",
+    "hy": "sirel",
+    "ru": "любить"
+  },
+  "make": {
+    "en": "make",
+    "hy": "անել",
+    "ru": "делать"
+  },
+  "man": {
+    "en": "man",
+    "hy": "տղամարդ",
+    "ru": "мужчина"
+  },
+  "march": {
+    "en": "",
+    "hy": "mart",
+    "ru": "март"
+  },
+  "market": {
+    "en": "",
+    "hy": "shuka",
+    "ru": "рынок"
+  },
+  "math": {
+    "en": "",
+    "hy": "matmatika",
+    "ru": "математика"
+  },
+  "may": {
+    "en": "",
+    "hy": "mayis",
+    "ru": "май"
+  },
+  "maybe": {
+    "en": "maybe",
+    "hy": "միգուցե",
+    "ru": "может быть"
+  },
+  "me": {
+    "en": "me",
+    "hy": "ինձ",
+    "ru": "меня"
+  },
+  "meat": {
+    "en": "",
+    "hy": "mis",
+    "ru": "мясо"
+  },
+  "message": {
+    "en": "",
+    "hy": "haghordagir",
+    "ru": "сообщение"
+  },
+  "milk": {
+    "en": "",
+    "hy": "kshor",
+    "ru": "молоко"
+  },
+  "minute": {
+    "en": "",
+    "hy": "rope",
+    "ru": "минута"
+  },
+  "monday": {
+    "en": "",
+    "hy": "yerkaushab'ti",
+    "ru": "понедельник"
+  },
+  "money": {
+    "en": "",
+    "hy": "pegh",
+    "ru": "деньги"
+  },
+  "month": {
+    "en": "month",
+    "hy": "ամիս",
+    "ru": "месяц"
+  },
+  "moon": {
+    "en": "moon",
+    "hy": "լուսին",
+    "ru": "луна"
+  },
+  "morning": {
+    "en": "morning",
+    "hy": "առավոտ",
+    "ru": "утро"
+  },
+  "most": {
+    "en": "most",
+    "hy": "ամենաշատ",
+    "ru": "большинство"
+  },
+  "mother": {
+    "en": "mother",
+    "hy": "մայր",
+    "ru": "мать"
+  },
+  "mountain": {
+    "en": "",
+    "hy": "ler",
+    "ru": "гора"
+  },
+  "mouth": {
+    "en": "mouth",
+    "hy": "բերան",
+    "ru": "рот"
+  },
+  "movie": {
+    "en": "",
+    "hy": "yeraspasilyutin",
+    "ru": "фильм"
+  },
+  "music": {
+    "en": "",
+    "hy": "erаzhshtutyin",
+    "ru": "музыка"
+  },
+  "my": {
+    "en": "my",
+    "hy": "իմ",
+    "ru": "мой"
+  },
+  "name": {
+    "en": "",
+    "hy": "anun",
+    "ru": "имя"
+  },
+  "never": {
+    "en": "never",
+    "hy": "երբեք",
+    "ru": "никогда"
+  },
+  "new": {
+    "en": "new",
+    "hy": "նոր",
+    "ru": "новый"
+  },
+  "night": {
+    "en": "night",
+    "hy": "գիշեր",
+    "ru": "ночь"
+  },
+  "nine": {
+    "en": "",
+    "hy": "ինը",
+    "ru": "девять"
+  },
+  "no": {
+    "en": "no",
+    "hy": "ոչ",
+    "ru": "нет"
+  },
+  "nose": {
+    "en": "nose",
+    "hy": "քիթ",
+    "ru": "нос"
+  },
+  "not": {
+    "en": "not",
+    "hy": "ոչ",
+    "ru": "не"
+  },
+  "november": {
+    "en": "",
+    "hy": "noember",
+    "ru": "ноябрь"
+  },
+  "now": {
+    "en": "now",
+    "hy": "հիմա",
+    "ru": "сейчас"
+  },
+  "ocean": {
+    "en": "",
+    "hy": "okianos",
+    "ru": "океан"
+  },
+  "october": {
+    "en": "",
+    "hy": "hoktember",
+    "ru": "октябрь"
+  },
+  "of": {
+    "en": "of",
+    "hy": "-ի",
+    "ru": "из"
+  },
+  "often": {
+    "en": "often",
+    "hy": "հաճախ",
+    "ru": "часто"
+  },
+  "oil": {
+    "en": "",
+    "hy": "iugh",
+    "ru": "масло"
+  },
+  "old": {
+    "en": "old",
+    "hy": "հին",
+    "ru": "старый"
+  },
+  "on": {
+    "en": "on",
+    "hy": "վրա",
+    "ru": "на"
+  },
+  "one": {
+    "en": "one",
+    "hy": "մեկ",
+    "ru": "один"
+  },
+  "only": {
+    "en": "only",
+    "hy": "միայն",
+    "ru": "только"
+  },
+  "open": {
+    "en": "open",
+    "hy": "բացել",
+    "ru": "открыть"
+  },
+  "or": {
+    "en": "or",
+    "hy": "կամ",
+    "ru": "или"
+  },
+  "orange": {
+    "en": "",
+    "hy": "նարնջագույն",
+    "ru": "оранжевый"
+  },
+  "orange_fruit": {
+    "en": "",
+    "hy": "narinj",
+    "ru": "апельсин"
+  },
+  "other": {
+    "en": "other",
+    "hy": "այլ",
+    "ru": "другой"
+  },
+  "our": {
+    "en": "our",
+    "hy": "մեր",
+    "ru": "наш"
+  },
+  "out": {
+    "en": "out",
+    "hy": "դուրս",
+    "ru": "вне"
+  },
+  "outside": {
+    "en": "outside",
+    "hy": "դրսում",
+    "ru": "снаружи"
+  },
+  "over": {
+    "en": "over",
+    "hy": "վրա",
+    "ru": "над"
+  },
+  "pants": {
+    "en": "",
+    "hy": "vartik",
+    "ru": "брюки"
+  },
+  "parents": {
+    "en": "",
+    "hy": "tsnoghner",
+    "ru": "родители"
+  },
+  "park": {
+    "en": "",
+    "hy": "park",
+    "ru": "парк"
+  },
+  "password": {
+    "en": "",
+    "hy": "gakhtnabarer",
+    "ru": "пароль"
+  },
+  "peace": {
+    "en": "",
+    "hy": "khaghaghutyun",
+    "ru": "мир"
+  },
+  "pen": {
+    "en": "pen",
+    "hy": "գրիչ",
+    "ru": "ручка"
+  },
+  "people": {
+    "en": "people",
+    "hy": "մարդիկ",
+    "ru": "люди"
+  },
+  "phone": {
+    "en": "",
+    "hy": "herakhus",
+    "ru": "телефон"
+  },
+  "pig": {
+    "en": "",
+    "hy": "khoz",
+    "ru": "свинья"
+  },
+  "pilot": {
+    "en": "",
+    "hy": "vertavorich",
+    "ru": "пилот"
+  },
+  "pink": {
+    "en": "",
+    "hy": "վարդագույն",
+    "ru": "розовый"
+  },
+  "plane": {
+    "en": "",
+    "hy": "odyun",
+    "ru": "самолёт"
+  },
+  "play": {
+    "en": "",
+    "hy": "khelal",
+    "ru": "играть"
+  },
+  "please": {
+    "en": "",
+    "hy": "khndrem",
+    "ru": "пожалуйста"
+  },
+  "police": {
+    "en": "",
+    "hy": "votikanutyun",
+    "ru": "полиция"
+  },
+  "poor": {
+    "en": "",
+    "hy": "akhkhar",
+    "ru": "бедный"
+  },
+  "president": {
+    "en": "",
+    "hy": "nakhagah",
+    "ru": "президент"
+  },
+  "price": {
+    "en": "",
+    "hy": "gin",
+    "ru": "цена"
+  },
+  "problem": {
+    "en": "",
+    "hy": "xndrum",
+    "ru": "проблема"
+  },
+  "purple": {
+    "en": "",
+    "hy": "մանուշakaguyun",
+    "ru": "фиолетовый"
+  },
+  "question": {
+    "en": "",
+    "hy": "harts",
+    "ru": "вопрос"
+  },
+  "rabbit": {
+    "en": "",
+    "hy": "nap'astakаgi",
+    "ru": "кролик"
+  },
+  "rain": {
+    "en": "",
+    "hy": "anjrev",
+    "ru": "дождь"
+  },
+  "read": {
+    "en": "",
+    "hy": "kartsal",
+    "ru": "читать"
+  },
+  "red": {
+    "en": "red",
+    "hy": "կարմիր",
+    "ru": "красный"
+  },
+  "rice": {
+    "en": "",
+    "hy": "brinj",
+    "ru": "рис"
+  },
+  "rich": {
+    "en": "",
+    "hy": "heratsun",
+    "ru": "богатый"
+  },
+  "right": {
+    "en": "right",
+    "hy": "աջ",
+    "ru": "правый"
+  },
+  "ring": {
+    "en": "",
+    "hy": "maten",
+    "ru": "кольцо"
+  },
+  "river": {
+    "en": "",
+    "hy": "ghet",
+    "ru": "река"
+  },
+  "road": {
+    "en": "",
+    "hy": "janаpаr",
+    "ru": "дорога"
+  },
+  "room": {
+    "en": "",
+    "hy": "siranakаner",
+    "ru": "комната"
+  },
+  "run": {
+    "en": "",
+    "hy": "varel",
+    "ru": "бегать"
+  },
+  "sad": {
+    "en": "sad",
+    "hy": "տխուր",
+    "ru": "грустный"
+  },
+  "salt": {
+    "en": "",
+    "hy": "agh",
+    "ru": "соль"
+  },
+  "sand": {
+    "en": "",
+    "hy": "avel",
+    "ru": "песок"
+  },
+  "saturday": {
+    "en": "",
+    "hy": "shab'at",
+    "ru": "суббота"
+  },
+  "say": {
+    "en": "say",
+    "hy": "ասել",
+    "ru": "говорить"
+  },
+  "school": {
+    "en": "",
+    "hy": "դպրոց",
+    "ru": "школа"
+  },
+  "science": {
+    "en": "",
+    "hy": "gitutyun",
+    "ru": "наука"
+  },
+  "sea": {
+    "en": "",
+    "hy": "tsov",
+    "ru": "море"
+  },
+  "second": {
+    "en": "",
+    "hy": "vayrkian",
+    "ru": "секунда"
+  },
+  "see": {
+    "en": "see",
+    "hy": "տեսնել",
+    "ru": "видеть"
+  },
+  "sell": {
+    "en": "",
+    "hy": "veratsnel",
+    "ru": "продавать"
+  },
+  "september": {
+    "en": "",
+    "hy": "september",
+    "ru": "сентябрь"
+  },
+  "seven": {
+    "en": "",
+    "hy": "յոթ",
+    "ru": "семь"
+  },
+  "she": {
+    "en": "she",
+    "hy": "նա (իգական)",
+    "ru": "она"
+  },
+  "sheep": {
+    "en": "",
+    "hy": "voghi",
+    "ru": "овца"
+  },
+  "ship": {
+    "en": "",
+    "hy": "nаv",
+    "ru": "корабль"
+  },
+  "shirt": {
+    "en": "",
+    "hy": "velogos",
+    "ru": "рубашка"
+  },
+  "shoes": {
+    "en": "",
+    "hy": "koshikner",
+    "ru": "туфли"
+  },
+  "short": {
+    "en": "",
+    "hy": "kark",
+    "ru": "короткий"
+  },
+  "since": {
+    "en": "since",
+    "hy": "սկսած",
+    "ru": "с"
+  },
+  "sing": {
+    "en": "",
+    "hy": "yergel",
+    "ru": "петь"
+  },
+  "singer": {
+    "en": "",
+    "hy": "yergo",
+    "ru": "певец"
+  },
+  "sister": {
+    "en": "sister",
+    "hy": "քույր",
+    "ru": "сестра"
+  },
+  "six": {
+    "en": "",
+    "hy": "վեց",
+    "ru": "шесть"
+  },
+  "skin": {
+    "en": "skin",
+    "hy": "մաշկ",
+    "ru": "кожа"
+  },
+  "sky": {
+    "en": "",
+    "hy": "yerkin",
+    "ru": "небо"
+  },
+  "sleep": {
+    "en": "",
+    "hy": "kanel",
+    "ru": "спать"
+  },
+  "slow": {
+    "en": "slow",
+    "hy": "դանդաղ",
+    "ru": "медленный"
+  },
+  "small": {
+    "en": "small",
+    "hy": "փոքր",
+    "ru": "маленький"
+  },
+  "snake": {
+    "en": "",
+    "hy": "dzav",
+    "ru": "змея"
+  },
+  "snow": {
+    "en": "",
+    "hy": "dzyun",
+    "ru": "снег"
+  },
+  "so": {
+    "en": "so",
+    "hy": "այնպես",
+    "ru": "так"
+  },
+  "soldier": {
+    "en": "",
+    "hy": "zinvor",
+    "ru": "солдат"
+  },
+  "some": {
+    "en": "some",
+    "hy": "որոշ",
+    "ru": "некоторый"
+  },
+  "sometimes": {
+    "en": "sometimes",
+    "hy": "երբեմն",
+    "ru": "иногда"
+  },
+  "son": {
+    "en": "",
+    "hy": "ordi",
+    "ru": "сын"
+  },
+  "sorry": {
+    "en": "",
+    "hy": "yeritasardutyan",
+    "ru": "извини"
+  },
+  "soup": {
+    "en": "",
+    "hy": "akhpur",
+    "ru": "суп"
+  },
+  "sport": {
+    "en": "",
+    "hy": "sport",
+    "ru": "спорт"
+  },
+  "spring": {
+    "en": "",
+    "hy": "gaghatn",
+    "ru": "весна"
+  },
+  "star": {
+    "en": "star",
+    "hy": "աստղ",
+    "ru": "звезда"
+  },
+  "start": {
+    "en": "start",
+    "hy": "սկսել",
+    "ru": "начать"
+  },
+  "stone": {
+    "en": "",
+    "hy": "kar",
+    "ru": "камень"
+  },
+  "stop": {
+    "en": "stop",
+    "hy": "կանգ",
+    "ru": "стоп"
+  },
+  "storm": {
+    "en": "",
+    "hy": "kaghaghakan",
+    "ru": "буря"
+  },
+  "street": {
+    "en": "",
+    "hy": "poghots",
+    "ru": "улица"
+  },
+  "strong": {
+    "en": "",
+    "hy": "uzhegh",
+    "ru": "сильный"
+  },
+  "student": {
+    "en": "",
+    "hy": "usanоgh",
+    "ru": "студент"
+  },
+  "sugar": {
+    "en": "",
+    "hy": "shakar",
+    "ru": "сахар"
+  },
+  "summer": {
+    "en": "",
+    "hy": "amarn",
+    "ru": "лето"
+  },
+  "sun": {
+    "en": "sun",
+    "hy": "արև",
+    "ru": "солнце"
+  },
+  "sunday": {
+    "en": "",
+    "hy": "kiraki",
+    "ru": "воскресенье"
+  },
+  "take": {
+    "en": "take",
+    "hy": "վերցնել",
+    "ru": "брать"
+  },
+  "talk": {
+    "en": "",
+    "hy": "khosil",
+    "ru": "говорить"
+  },
+  "tea": {
+    "en": "",
+    "hy": "tey",
+    "ru": "чай"
+  },
+  "teach": {
+    "en": "",
+    "hy": "usutsanel",
+    "ru": "учить"
+  },
+  "teacher": {
+    "en": "",
+    "hy": "uсutsich",
+    "ru": "учитель"
+  },
+  "temperature": {
+    "en": "",
+    "hy": "jermashchap",
+    "ru": "температура"
+  },
+  "ten": {
+    "en": "",
+    "hy": "տաս",
+    "ru": "десять"
+  },
+  "than": {
+    "en": "than",
+    "hy": "քան",
+    "ru": "чем"
+  },
+  "thanks": {
+    "en": "",
+    "hy": "shnorhakalutyun",
+    "ru": "спасибо"
+  },
+  "that": {
+    "en": "that",
+    "hy": "դա",
+    "ru": "тот"
+  },
+  "the": {
+    "en": "the",
+    "hy": "-ը/-ն",
+    "ru": "the"
+  },
+  "their": {
+    "en": "their",
+    "hy": "նրանց",
+    "ru": "их"
+  },
+  "them": {
+    "en": "them",
+    "hy": "նրանց",
+    "ru": "их"
+  },
+  "then": {
+    "en": "then",
+    "hy": "այդ ժամանակ",
+    "ru": "тогда"
+  },
+  "there": {
+    "en": "there",
+    "hy": "այնտեղ",
+    "ru": "там"
+  },
+  "these": {
+    "en": "these",
+    "hy": "այս",
+    "ru": "эти"
+  },
+  "they": {
+    "en": "they",
+    "hy": "նրանք",
+    "ru": "они"
+  },
+  "think": {
+    "en": "think",
+    "hy": "մտածել",
+    "ru": "думать"
+  },
+  "this": {
+    "en": "this",
+    "hy": "սա",
+    "ru": "этот"
+  },
+  "thousand": {
+    "en": "",
+    "hy": "հազար",
+    "ru": "тысяча"
+  },
+  "three": {
+    "en": "",
+    "hy": "երեք",
+    "ru": "три"
+  },
+  "thursday": {
+    "en": "",
+    "hy": "hngshab'ti",
+    "ru": "четверг"
+  },
+  "tiger": {
+    "en": "",
+    "hy": "kaghntavar",
+    "ru": "тигр"
+  },
+  "time": {
+    "en": "time",
+    "hy": "ժամանակ",
+    "ru": "время"
+  },
+  "to": {
+    "en": "to",
+    "hy": "դեպի",
+    "ru": "к"
+  },
+  "today": {
+    "en": "today",
+    "hy": "այսօր",
+    "ru": "сегодня"
+  },
+  "together": {
+    "en": "together",
+    "hy": "միասին",
+    "ru": "вместе"
+  },
+  "tomorrow": {
+    "en": "tomorrow",
+    "hy": "վաղը",
+    "ru": "завтра"
+  },
+  "train": {
+    "en": "",
+    "hy": "gnatsin",
+    "ru": "поезд"
+  },
+  "tree": {
+    "en": "tree",
+    "hy": "ծառ",
+    "ru": "дерево"
+  },
+  "truth": {
+    "en": "",
+    "hy": "shtmarut",
+    "ru": "правда"
+  },
+  "tuesday": {
+    "en": "",
+    "hy": "yerekshab'ti",
+    "ru": "вторник"
+  },
+  "two": {
+    "en": "two",
+    "hy": "երկու",
+    "ru": "два"
+  },
+  "ugly": {
+    "en": "ugly",
+    "hy": "տգեղ",
+    "ru": "уродливый"
+  },
+  "university": {
+    "en": "",
+    "hy": "hamalsaran",
+    "ru": "университет"
+  },
+  "until": {
+    "en": "until",
+    "hy": "մինչև",
+    "ru": "до"
+  },
+  "up": {
+    "en": "up",
+    "hy": "վերև",
+    "ru": "вверх"
+  },
+  "us": {
+    "en": "us",
+    "hy": "մեզ",
+    "ru": "нас"
+  },
+  "use": {
+    "en": "use",
+    "hy": "օգտագործել",
+    "ru": "использовать"
+  },
+  "village": {
+    "en": "",
+    "hy": "gugh",
+    "ru": "деревня"
+  },
+  "walk": {
+    "en": "",
+    "hy": "ganal",
+    "ru": "ходить"
+  },
+  "want": {
+    "en": "want",
+    "hy": "ուզել",
+    "ru": "хотеть"
+  },
+  "war": {
+    "en": "",
+    "hy": "ber",
+    "ru": "война"
+  },
+  "water": {
+    "en": "water",
+    "hy": "ջուր",
+    "ru": "вода"
+  },
+  "way": {
+    "en": "way",
+    "hy": "ճանապարհ",
+    "ru": "путь"
+  },
+  "we": {
+    "en": "we",
+    "hy": "մենք",
+    "ru": "мы"
+  },
+  "weak": {
+    "en": "",
+    "hy": "tkayor",
+    "ru": "слабый"
+  },
+  "weather": {
+    "en": "",
+    "hy": "եghana",
+    "ru": "погода"
+  },
+  "wednesday": {
+    "en": "",
+    "hy": "chorekshab'ti",
+    "ru": "среда"
+  },
+  "week": {
+    "en": "week",
+    "hy": "շաբաթ",
+    "ru": "неделя"
+  },
+  "well": {
+    "en": "well",
+    "hy": "լավ",
+    "ru": "хорошо"
+  },
+  "what": {
+    "en": "what",
+    "hy": "ինչ",
+    "ru": "что"
+  },
+  "when": {
+    "en": "when",
+    "hy": "երբ",
+    "ru": "когда"
+  },
+  "where": {
+    "en": "where",
+    "hy": "որտեղ",
+    "ru": "где"
+  },
+  "which": {
+    "en": "which",
+    "hy": "որ",
+    "ru": "который"
+  },
+  "white": {
+    "en": "white",
+    "hy": "սպիտակ",
+    "ru": "белый"
+  },
+  "who": {
+    "en": "who",
+    "hy": "ով",
+    "ru": "кто"
+  },
+  "why": {
+    "en": "why",
+    "hy": "ինչու",
+    "ru": "почему"
+  },
+  "wife": {
+    "en": "",
+    "hy": "krukin",
+    "ru": "жена"
+  },
+  "will": {
+    "en": "will",
+    "hy": "կ",
+    "ru": "будет"
+  },
+  "wind": {
+    "en": "",
+    "hy": "kaghak",
+    "ru": "ветер"
+  },
+  "window": {
+    "en": "window",
+    "hy": "պատուհան",
+    "ru": "окно"
+  },
+  "wine": {
+    "en": "",
+    "hy": "gini",
+    "ru": "вино"
+  },
+  "winter": {
+    "en": "",
+    "hy": "tsestin",
+    "ru": "зима"
+  },
+  "with": {
+    "en": "with",
+    "hy": "հետ",
+    "ru": "с"
+  },
+  "without": {
+    "en": "without",
+    "hy": "առանց",
+    "ru": "без"
+  },
+  "wolf": {
+    "en": "",
+    "hy": "gayl",
+    "ru": "волк"
+  },
+  "woman": {
+    "en": "woman",
+    "hy": "կին",
+    "ru": "женщина"
+  },
+  "work": {
+    "en": "work",
+    "hy": "աշխատանք",
+    "ru": "работа"
+  },
+  "world": {
+    "en": "",
+    "hy": "աշխարհ",
+    "ru": "мир"
+  },
+  "would": {
+    "en": "would",
+    "hy": "կ",
+    "ru": "бы"
+  },
+  "write": {
+    "en": "",
+    "hy": "grel",
+    "ru": "писать"
+  },
+  "writer": {
+    "en": "",
+    "hy": "grol",
+    "ru": "писатель"
+  },
+  "wrong": {
+    "en": "",
+    "hy": "sarash",
+    "ru": "неправильный"
+  },
+  "year": {
+    "en": "year",
+    "hy": "տարի",
+    "ru": "год"
+  },
+  "yellow": {
+    "en": "yellow",
+    "hy": "դեղին",
+    "ru": "желтый"
+  },
+  "yes": {
+    "en": "yes",
+    "hy": "այո",
+    "ru": "да"
+  },
+  "yesterday": {
+    "en": "yesterday",
+    "hy": "երեկ",
+    "ru": "вчера"
+  },
+  "you": {
+    "en": "you",
+    "hy": "դուք",
+    "ru": "вы"
+  },
+  "young": {
+    "en": "",
+    "hy": "yeritar",
+    "ru": "молодой"
+  },
+  "your": {
+    "en": "your",
+    "hy": "ձեր",
+    "ru": "ваш"
+  },
+  "zero": {
+    "en": "",
+    "hy": "զրո",
+    "ru": "ноль"
+  }
+}

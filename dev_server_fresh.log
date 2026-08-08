@@ -1,0 +1,16 @@
+
+> nur-lingo@1.0.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+  - Experiments (use with caution):
+    · typedRoutes
+
+ ✓ Starting...
+ ✓ Ready in 3.4s
+ ○ Compiling /learn ...
+ ✓ Compiled /learn in 9.1s (1223 modules)
+ GET /learn?lesson=hyen_l3&pair=hy-en 200 in 9881ms
+ ✓ Compiled in 734ms (619 modules)
+ GET /learn?lesson=enru_l2&pair=en-ru 200 in 44ms

@@ -1,0 +1,42 @@
+{
+  "name": "nur-lingo",
+  "version": "1.0.0",
+  "description": "AI-native Armenian ↔ English language learning platform with semantic NLP engine",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit",
+    "db:migrate": "supabase db push",
+    "db:seed": "tsx scripts/seed-lexicon.ts",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.4.0",
+    "@supabase/supabase-js": "^2.43.0",
+    "framer-motion": "^11.0.0",
+    "next": "^14.2.0",
+    "openai": "^4.40.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^6.1.1",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10",
+    "edge-tts": "^1.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "^14",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5",
+    "vitest": "^1.0.0"
+  }
+}
