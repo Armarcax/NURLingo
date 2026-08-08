@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{}"
+self.__REACT_LOADABLE_MANIFEST="{\"lib/rewards/seeds.ts -> ./quests\":{\"id\":\"lib/rewards/seeds.ts -> ./quests\",\"files\":[\"static/chunks/_app-pages-browser_src_lib_rewards_quests_ts.js\"]}}"
